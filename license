@@ -1,6 +1,7 @@
-# Miamy City — Limited Use & Safety License (MC-LUSL) v1.0
+<title>License</title>
+<h1># Miamy City — Limited Use & Safety License (MC-LUSL) v1.0</h1>
 
-*Based on principles of Apache License 2.0 with additional security restrictions and anti-abuse clauses.*
+<p>*Based on principles of Apache License 2.0 with additional security restrictions and anti-abuse clauses.*
 
 ---
 
@@ -77,4 +78,4 @@ Modifications:
 *Notes:*
 
 * This license is a custom license inspired by Apache License 2.0 concepts but includes added security and anti-abuse clauses. It is not a drop-in replacement for Apache 2.0 and should not be used as a legal substitute without review by qualified counsel if you intend to rely on it in critical/legal contexts.
-* Replace placeholders (`[YEAR]`, `[AUTHOR NAME OR ORGANIZATION]`, `[CONTACT_EMAIL]`) in the NOTICE file before publishing.
+* Replace placeholders (`[YEAR]`, `[AUTHOR NAME OR ORGANIZATION]`, `[CONTACT_EMAIL]`) in the NOTICE file before publishing.</p>

@@ -1,0 +1,80 @@
+# Miamy City — Limited Use & Safety License (MC-LUSL) v1.0
+
+*Based on principles of Apache License 2.0 with additional security restrictions and anti-abuse clauses.*
+
+---
+
+## 1. Introduction
+
+This License governs the use of the **Miamy City** website, software, and related materials (hereinafter referred to as the “Software”, “Site”, or “Materials”). By using, copying, distributing, or modifying the Materials, you accept and agree to be bound by this License.
+
+## 2. Definitions
+
+* **Bank / Miamy Bank** — any features related to financial operations, money transfers, accounts, or similar services.
+* **0101J Storage** — the data storage module/component of the Site.
+* **Hacking / Unauthorized Access** — any attempt or action aimed at gaining access, modifying, or damaging systems/data without authorization, including but not limited to exploiting vulnerabilities, password brute forcing, SQL injections, bypassing authentication, or injecting malicious code.
+
+## 3. Grant of Rights
+
+Subject to the terms of this License, you are granted a worldwide, royalty-free, non-exclusive license to:
+
+* Use and view the Site and Materials for personal or internal non-commercial purposes.
+* Copy and redistribute original or modified versions of the Materials, provided the conditions in Section 4 are met.
+
+## 4. Conditions
+
+1. Any redistribution (modified or unmodified) must include this License (or a reference to it) and attribution: “Miamy City © [YEAR]”.
+2. Any public modification or publication must include a **NOTICE** file describing changes and linking to the original.
+3. You must not remove or alter copyright, legal notices, or license headers included in the Materials.
+
+## 5. Explicit Prohibition of Misuse
+
+1. **Hacking and unauthorized access are strictly prohibited.** Attempting to scan vulnerabilities, exploit bugs, perform SQL injections, brute force, bypass authentication, or otherwise gain illegal access to the Site, the Bank, or 0101J is a violation of this License and will be treated as a criminal act under applicable law.
+2. The Site, Bank, or 0101J may not be used for money laundering, fraud, storage/distribution of stolen or illegal data, spreading malware, or any unlawful activity.
+3. Security testing (pentesting, fuzzing, etc.) is allowed **only with prior written permission** from the project owner (see contact in NOTICE). Otherwise, it constitutes a violation of this License.
+
+## 6. Disclaimer of Warranty & Limitation of Liability
+
+The Materials are provided “AS IS”, without warranties of any kind, express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, and non-infringement. The owners/authors are not liable for any direct, indirect, incidental, special, punitive, or consequential damages arising from the use or inability to use the Materials, including issues with the Bank or 0101J.
+
+## 7. Intellectual Property
+
+This License does not grant any rights to trademarks, patents, or proprietary technologies owned by the project owners, except as explicitly provided herein.
+
+## 8. Termination
+
+This License terminates automatically if you breach Sections 4 or 5. Upon termination, you must cease all use of the Materials and destroy any copies.
+
+## 9. Governing Law
+
+This License shall be governed by and construed in accordance with the laws of the jurisdiction of the project owner (specified in NOTICE). Disputes shall first be attempted to be resolved amicably; failing that, they will be resolved in a competent court under applicable law.
+
+## 10. Contact & NOTICE
+
+For permissions, security questions, or authorization of penetration testing, contact:
+
+**Miamy City — [CONTACT_EMAIL]** (replace with real address in NOTICE).
+
+The NOTICE file must include: year, author(s), contact information, and a short list of modifications (if any).
+
+---
+
+### NOTICE (template)
+
+```
+Miamy City
+Copyright © [YEAR]
+Author: [AUTHOR NAME OR ORGANIZATION]
+Contact (security/permissions): [CONTACT_EMAIL]
+Original: https://example.com/
+
+Modifications:
+- [DATE] — [SHORT DESCRIPTION OF CHANGE]
+```
+
+---
+
+*Notes:*
+
+* This license is a custom license inspired by Apache License 2.0 concepts but includes added security and anti-abuse clauses. It is not a drop-in replacement for Apache 2.0 and should not be used as a legal substitute without review by qualified counsel if you intend to rely on it in critical/legal contexts.
+* Replace placeholders (`[YEAR]`, `[AUTHOR NAME OR ORGANIZATION]`, `[CONTACT_EMAIL]`) in the NOTICE file before publishing.

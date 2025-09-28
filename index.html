@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Miamy City</title>
+
+  <meta property="og:title" content="Miamy">
+  <meta property="og:description" content="Official Miamy site">
+  <meta property="og:image" content="https://example.com/image.jpg">
+  <meta property="og:url" content="https://example.com/">
+
+  <style>
+    /* Общие стили */
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      background: #f4f6f9;
+      color: #333;
+    }
+
+    /* Шапка */
+    header {
+      background: linear-gradient(135deg, #0077ff, #00c3ff);
+      color: white;
+      padding: 12px 30px;
+      border-bottom: 2px solid #005fa3;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 1000;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 1.5rem;
+      font-weight: bold;
+      letter-spacing: 1px;
+    }
+
+    nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      gap: 20px;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: 500;
+      transition: opacity 0.2s;
+    }
+
+    nav a:hover {
+      opacity: 0.7;
+    }
+
+    /* Основной контент */
+    main {
+      padding: 120px 20px 40px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    section {
+      background: white;
+      border-radius: 10px;
+      padding: 20px;
+      margin-bottom: 25px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+      transition: transform 0.2s;
+    }
+
+    section:hover {
+      transform: translateY(-3px);
+    }
+
+    section h2 {
+      margin-top: 0;
+      color: #0077ff;
+    }
+
+    section img {
+      max-width: 100%;
+      border-radius: 8px;
+      margin: 15px 0;
+    }
+
+    /* Футер */
+    footer {
+      text-align: center;
+      padding: 15px;
+      background: #222;
+      color: #aaa;
+      font-size: 0.9rem;
+    }
+
+    footer p {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Miamy City</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Main</a></li>
+        <li><a href="license.html">License</a></li>
+        <li><a href="services.html">Services</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <article>
+      <section>
+        <h2>🚀 The Data 0101J Keeper Update</h2>
+        <img src="images/0101J.png" alt="0101J">
+        <p>Data keeper 0101J has new update <b>1.1.0</b>. It added initializing data to 0-1 cmd and removed bugs.</p>
+      </section>
+      <section>
+        <h2>🏦 NEW: Miamy Bank</h2>
+        <p>The Miamy Bank now offers cash services, fast transfers, and enhanced security. CyberSecurity checks updated to <b>ping 1.1.1.bank</b>.</p>
+      </section>
+    </article>
+  </main>
+
+  <footer>
+    <p>© Miamy City, 2016</p>
+  </footer>
+</body>
+</html>
